@@ -14,3 +14,5 @@ Currently available files in this repo:
 Day1- Hands on Numpy library: This file focuses on very simple and basic operations on arrays using numpy library (the exercises are taken from https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 
 Day2- Hands on Pandas library: basic and essential exercises on pandas library (to be updated)
+
+Day3- Data pre-processing: the essential step before model building
