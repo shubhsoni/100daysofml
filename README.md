@@ -22,3 +22,7 @@ Day4- Descriptive analysis:  to understand the nature of data using plots
 Day5- Feature Engineering: step to transform, augment or generate new features out of existing features 
 
 Day6- Modeling: predicting response variable with predictors with simple ML algorithms.
+
+Day7- Logistic regression for two class and multi-class
+
+Day8- Decision Tree and RandomForest
