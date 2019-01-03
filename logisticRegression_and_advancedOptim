@@ -1,0 +1,14 @@
+review of logistic regression cost function
+how it is different from Linear regression cost function
+the Logistic reg cost fun is min using gradient descent just like lin reg cost fun
+
+Other advanced optimization techniques such as
+  conjugate grad desc
+  BFGS
+  LBFGS
+
+
+Multi-class classification
+  its possible to use logistic regression course for multi-class classificataion using
+  one-vs-all class strategy.
+  
