@@ -34,3 +34,7 @@ Day10- log reg cost fun opt and how its diff from lin reg cost fun
 Day11- advanced opt methods
 
 Day12- Multi-class classification using log reg
+
+Day13- regularized logistic regression
+
+Day14- Octave for week3 quizz for AndrewNG ML course
